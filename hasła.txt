@@ -1,0 +1,9 @@
+Administrator:
+Login: admin
+Hasło: admin
+Klient:
+Login: klient
+Hasło: klient
+lub
+Login: dawid
+Hasło: dawid
